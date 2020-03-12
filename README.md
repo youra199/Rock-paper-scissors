@@ -1,11 +1,3 @@
-# Rock-Paper-Scissors
-<<<<<<< HEAD
-<<<<<<< HEAD
-<a href="https://www.fvcproductions.com/"><img src="https://images-na.ssl-images-amazon.com/images/I/61CD2t4VmDL.png" title="FVCproductions" alt="FVCproductions"></a>
-=======
->>>>>>> 86343d6118dc0de88913d2620fe735fc6ab72ae9
-=======
->>>>>>> 3ae0c27e22dc99bdf4b0768a8467e64b463000a1
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/61QkvmvEdVL.png "Logo Title 1")
 --------
