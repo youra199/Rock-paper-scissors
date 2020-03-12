@@ -7,3 +7,7 @@
 * We made this project purely for fun and demonstrations purpose. 
 * Anyone is free to use this as starting template for their project.
 
+##License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
